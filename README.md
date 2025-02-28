@@ -14,3 +14,12 @@
 [8장. 인덱스](정리/8장_인덱스.md)
 
 ---
+
+### 관련글
+
+- https://kongdevlog.tistory.com/17
+- https://kongdevlog.tistory.com/19
+- https://kongdevlog.tistory.com/20
+- https://kongdevlog.tistory.com/21
+
+---
